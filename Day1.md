@@ -30,7 +30,22 @@ firewall-cmd --reload
 
 ![vsftp](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpd.jpg)
 
-## Setup a FTP server and use that FTP server to share the code among yourself
+## Setup a FTP server and use that FTP server to share the code among yourself  
+
+## FTP server can be configured in two way.
+### 1. Anonymous configuration – In anonymous method you can browse/access ftp without credentials.
+### 2. User based configuration – In user and based method you require username and password to access the ftp.
+
+## Configuring FTP Server
+Allow FTP server to access Anonymously, Edit FTP configuration file and enable the below parameter.  
+
+## vim /etc/vsftpd/vsftpd.conf  
+
+anonymous_enable=YES # This parameter allow Anonymous FTP login and share data from /var/ftp/
+
+Restart service to make configuration update  
+
+# systemctl restart vsftpd
 
 ![vsftclint](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpdclint.jpg)
 
