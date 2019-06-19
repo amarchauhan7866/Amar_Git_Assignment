@@ -9,3 +9,15 @@
 
 
 ![vsftp](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpd.jpg)
+
+![vsftclint](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpdclint.jpg)
+
+![filecreateion](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/createfile.jpg.png)
+
+![crosscheckUI](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/CrosscheckfromUI.jpg)
+
+
+![crosscheckUI](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/Access%20ftp%20from%20fileZilla.png)
+
+
+
