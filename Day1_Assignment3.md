@@ -134,20 +134,20 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ```
 
-## [root@ninjaopstree devops1]# git status
-# On branch master  
-nothing to commit, working directory clean  
+### [root@ninjaopstree devops1]# git status
+ On branch master  
+nothing to commit, working directory clean    
 
 
 [root@ninjaopstree devops1]# git rm README1.md README2.md
 rm 'README1.md'
 rm 'README2.md'
 
-# Q.5 
-## Run git status command
-## Find out the content that is added in README3.md
+## Q.5 
+### Run git status command
+### Find out the content that is added in README3.md
 
-# Ans:-
+## Ans:-
 
 ```
 [root@ninjaopstree devops1]# git status
@@ -182,16 +182,16 @@ index e69de29..3b2aed8 100644
 
 ```
 
-# Q.6 
+## Q.6 
 
-## Undo the changes in README3.md file
-## Run git status command
-## Create a branch ninja from current branch
-## Create sensei branch from ninja branch and switch to sensei branch
-## List out all the local branches
-## Delete sensei branch
-## Find out the current branch
-## List out all the commits that have been done
+### Undo the changes in README3.md file
+### Run git status command
+### Create a branch ninja from current branch
+### Create sensei branch from ninja branch and switch to sensei branch
+### List out all the local branches
+### Delete sensei branch
+###  Find out the current branch
+### List out all the commits that have been done
 
 # Ans:-
 
