@@ -30,6 +30,8 @@ firewall-cmd --reload
 
 ![vsftp](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpd.jpg)
 
+## Setup a FTP server and use that FTP server to share the code among yourself
+
 ![vsftclint](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpdclint.jpg)
 
 ![filecreateion](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/createfile.jpg.png)
