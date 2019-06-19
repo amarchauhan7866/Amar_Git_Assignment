@@ -244,25 +244,26 @@ Deleted branch sensei (was 299f490).
 
 ########################################
 
-
-root@ninjaopstree devops1]# git log
-commit 299f49001239372220978f09c4359503715efda1
-Author: amarchauhan7866 <amarchauhan7866@gmail.com>
-Date:   Thu Jun 20 04:24:49 2019 +0530
+```
+root@ninjaopstree devops1]# git log  
+commit 299f49001239372220978f09c4359503715efda1  
+Author: amarchauhan7866 <amarchauhan7866@gmail.com>  
+Date:   Thu Jun 20 04:24:49 2019 +0530  
 
     All Readme file added
 
-commit 122c8aa4b7a9d6a2f65ae1f30fe6d6f4d6cf4ddb
-Author: amarchauhan7866 <amarchauhan7866@gmail.com>
-Date:   Thu Jun 20 04:01:16 2019 +0530
+commit 122c8aa4b7a9d6a2f65ae1f30fe6d6f4d6cf4ddb  
+Author: amarchauhan7866 <amarchauhan7866@gmail.com>  
+Date:   Thu Jun 20 04:01:16 2019 +0530  
 
-    updated readme file
+    updated readme file   
 
 commit 34f6f2f55f47451149196ab5caa2a1752820bea2
 Author: amarchauhan7866 <amarchauhan7866@gmail.com>
 Date:   Thu Jun 20 03:57:01 2019 +0530
 
     Readme file create
+    ```
 
 
 
