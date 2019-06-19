@@ -51,6 +51,14 @@ Restart service to make configuration update
 
 ![filecreateion](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/createfile.jpg.png)
 
+##Enable parameter local_enable=YES in config file  
+### vim /etc/vsftpd/vsftpd.conf    
+anonymous_enable=NO  
+local_enable=YES  
+
+### systemctl restart vsftpd  
+Access user from Filezilla
+
 ![crosscheckUI](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/CrosscheckfromUI.jpg)
 
 
