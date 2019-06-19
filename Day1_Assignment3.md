@@ -215,32 +215,33 @@ index e69de29..3b2aed8 100644
 ## [root@ninjaopstree devops1]# git branch
     * master
     ninja
-[root@ninjaopstree devops1]# git checkout ninja
+```
+[root@ninjaopstree devops1]# git checkout ninja  
 D       README1.md
 D       README2.md
 Switched to branch 'ninja'
 [root@ninjaopstree devops1]# git branch
   master
 * ninja
-[root@ninjaopstree devops1]# git branch sensei
-[root@ninjaopstree devops1]# git branch
-  master
-* ninja
-  sensei
-[root@ninjaopstree devops1]#
+[root@ninjaopstree devops1]# git branch sensei  
+[root@ninjaopstree devops1]# git branch  
+  master  
+* ninja  
+  sensei  
+[root@ninjaopstree devops1]#  
 
 ############################################################
 
-[root@ninjaopstree devops1]# git branch -d sensei
-Deleted branch sensei (was 299f490).
-[root@ninjaopstree devops1]#
+[root@ninjaopstree devops1]# git branch -d sensei  
+Deleted branch sensei (was 299f490).  
+[root@ninjaopstree devops1]#  
 
 
-[root@ninjaopstree devops1]# git branch
-  master
-* ninja
+[root@ninjaopstree devops1]# git branch  
+  master  
+* ninja  
 
-
+```
 
 ########################################
 
