@@ -45,7 +45,7 @@ anonymous_enable=YES # This parameter allow Anonymous FTP login and share data f
 
 Restart service to make configuration update  
 
-# systemctl restart vsftpd
+### systemctl restart vsftpd
 
 ![vsftclint](https://github.com/amarchauhan7866/Amar_Git_Assignment/blob/Amar/Git_Media_Day1/vsftpdclint.jpg)
 
